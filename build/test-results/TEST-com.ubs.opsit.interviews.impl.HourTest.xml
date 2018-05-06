@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.interviews.impl.HourTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-05-06T22:34:02" hostname="Rajneet-PC" time="0.139">
+  <properties/>
+  <testcase name="testSecondClass" classname="com.ubs.opsit.interviews.impl.HourTest" time="0.129"/>
+  <testcase name="testMinuteClass" classname="com.ubs.opsit.interviews.impl.HourTest" time="0.0"/>
+  <testcase name="testHourClass" classname="com.ubs.opsit.interviews.impl.HourTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
